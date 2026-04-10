@@ -24,6 +24,9 @@ ENV/
 # Uploads
 uploads/
 
+# Local notes
+commands.txt
+
 # Dependencies
 dist/
 build/
