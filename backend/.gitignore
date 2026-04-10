@@ -1,0 +1,33 @@
+# Python backend .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Uploads
+uploads/
+
+# Dependencies
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 874 >>
+stream
+BT
+/F1 12 Tf
+14 TL
+50 790 Td
+(Laboratory Report) Tj
+T*
+() Tj
+T*
+(Patient Info) Tj
+T*
+(Patient Name: Neha Kapoor) Tj
+T*
+(DOB: 1992-08-19) Tj
+T*
+(Gender: Female) Tj
+T*
+(Medical Record Number: MRN-2026-1003) Tj
+T*
+(Date of Report: 2026-04-03) Tj
+T*
+() Tj
+T*
+(Results / Findings) Tj
+T*
+(Hemoglobin 9.8 g/dL, MCV 72 fL, ferritin 8 ng/mL, transferrin saturation 10 percent.) Tj
+T*
+(White blood cell count and platelet count are within normal limits.) Tj
+T*
+(Thyroid profile and renal function are normal.) Tj
+T*
+() Tj
+T*
+(Assessment / Diagnosis) Tj
+T*
+(Microcytic hypochromic anemia most consistent with iron deficiency.) Tj
+T*
+() Tj
+T*
+(Treatment Recommendations) Tj
+T*
+(Start oral iron supplementation, review dietary iron intake, and repeat CBC with) Tj
+T*
+(ferritin in 6 weeks.) Tj
+T*
+(Evaluate menstrual blood loss and gastrointestinal symptoms if anemia persists.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1235
+%%EOF
