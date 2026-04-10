@@ -1,4 +1,4 @@
-# Medical Report Analyser
+# Clinical Report Analyser
 
 A full-stack web application that lets a clinician enter patient details, upload a medical report PDF, and receive AI-powered clinical suggestions from **Anthropic Claude**.
 
